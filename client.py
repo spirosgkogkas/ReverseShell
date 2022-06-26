@@ -4,7 +4,7 @@ import os
 import sys
 import time
 
-IP = "132.145.252.49"
+IP = "XXX.XXX.XXX.XXX" #Public ip
 PORT = 12345
 BUFFER_SIZE = 4096
 HEADERSIZE = 10

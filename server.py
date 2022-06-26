@@ -3,7 +3,7 @@ import subprocess
 import os
 
 # IP = socket.gethostbyname(socket.gethostname())
-IP = "10.0.0.88"
+IP = "XXX.XXX.XXX.XXX" #public ip
 PORT = 12345
 BUFFER_SIZE = 4096
 HEADERSIZE = 10
